@@ -42,9 +42,7 @@ ${reset}"
 read -p "${green}🔑 Enter the secret key: ${reset}" key
 
 echo -n "${blue}Validating key "
-# Pass : NDT3kSxwb9
-# Check the website is alive
-# pastebin/$key 
+# Complete Logic
 animate_spinner
 
 echo -e "\n${green}Exiting...${reset}"
